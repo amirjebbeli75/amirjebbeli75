@@ -6,6 +6,7 @@ Deep Learning & NLP Researcher - Computer Engineering graduate from Iran Univers
 ## Research Interests
 * Deep Learning
 * NLP
+* Psychology and Genetics (Medical)
 
 ## Technical Skills
 * PyTorch
@@ -15,4 +16,4 @@ Deep Learning & NLP Researcher - Computer Engineering graduate from Iran Univers
 ## Experience & Affiliations
 * Instructor at Quera
 * Content creator at IUSTech
-* Head Teaching Assistant for the NLP course at the university
+* Head Teaching Assistant for the NLP course at the university in Fall 2025 ([Dr. Z. Aghahadi](https://www.researchgate.net/profile/Zeinab-Aghahadi)) and Winter 2025 ([Dr. M. Davoodabadi Farahani](https://scholar.google.com/citations?user=-80RtjAAAAAJ&hl=en))
