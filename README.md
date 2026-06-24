@@ -12,6 +12,25 @@ Deep Learning and Natural Language Processing Researcher, currently pursuing a B
 
 ## Key Projects & Research
 * **Persian Indirect Threat Detection (March 2026 - Present):** Conducting a Natural Language Processing research project focused on developing a standard model for detecting threatening sentences containing indirect threats in Persian texts.
+## Key Projects & Research
+* **Persian Indirect Threat Detection (March 2026 - Present):** Conducting a Natural Language Processing research project focused on developing a standard model for detecting threatening sentences containing indirect threats in Persian texts.
+* **Intelligent Prompt-Based Planner (Fall 2025):** Acted as the AI Specialist in developing a smart planning system featuring integrated calendar management and notifications.
+* **Automated Football Video Captioning (Fall 2024):** Utilized Deep Learning models on the SoccerNet dataset to generate automated captions for football footage.
+* **Human Genome CNV Analysis (Fall 2024):** Analyzed and visualized Copy Number Variations (CNV) within the human genome.
+* **Intelligent Search Agent (Winter 2023):** Designed a smart agent for discovering, retrieving, and transporting objects within a constrained grid environment using local sensors.
+* **Machine Learning & AI Implementations (Fall 2023):**
+  * Built a Reinforcement Learning agent from scratch to control a lunar lander in the Lunar Lander environment.
+  * Implemented a Multi-Layer Perceptron (MLP) for function approximation, noise robustness analysis, and image denoising (USPS dataset).
+  * Categorized image data using Support Vector Machines (SVM) with Linear, RBF, and Polynomial kernels, comparing performance against Neural Networks.
+  * Developed a Decision Tree Classifier manually, utilizing Entropy and Gini impurity metrics.
+  * Applied Genetic Programming (GP) to discover mathematical functions using basic arithmetic and trigonometric operators in 1D and 2D spaces.
+  * Implemented the Minimax Algorithm with Alpha-Beta Pruning for a two-player board game.
+* **Core Software & Database Systems (2021 - 2022):**
+  * **Educational Resource Search Engine:** Designed and implemented a specialized search engine (Winter 2022).
+  * **Online Theater Ticket Reservation System:** Designed and implemented the database architecture (Winter 2022).
+  * **16-bit Assembler:** Developed a converter to translate assembly language into machine code for a 16-bit processor (Winter 2022).
+  * **Multi-Counter System:** Designed hardware logic using Proteus (Fall 2022).
+  * **Personal Accounting System:** Designed and implemented utilizing the C programming
 
 ## Achievements & Honors
 * Chosen as the Rank #1 best teaching assistant in the Computer Engineering department, among 100 other TAs, by students' vote (Fall 2023).
