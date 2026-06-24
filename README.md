@@ -1,16 +1,18 @@
-## Hi there 👋
+# Amir Jebbeli
 
-<!--
-**amirjebbeli75/amirjebbeli75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Deep Learning & NLP Researcher - Computer Engineering graduate from Iran University of Science and Technology - Quera Instructor - Creator of scientific and educational AI and software content on YouTube: @IUSTech
 
-Here are some ideas to get you started:
+## Research Interests
+* Deep Learning
+* NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+* PyTorch
+* TensorFlow
+* scikit-learn
+
+## Experience & Affiliations
+* Instructor at Quera
+* Content creator at IUSTech
+* Head Teaching Assistant for the NLP course at the university
