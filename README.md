@@ -1,6 +1,6 @@
 # Amir Jebbeli
 
-## Computer Science Student | Deep Learning & NLP Researcher | AI Educator
+## Computer Science Student | Deep Learning & NLP Researcher | AI Enthusiast 
 
 B.Sc. student in Computer Science at Iran University of Science and Technology (IUST) focusing on Deep Learning and Natural Language Processing. Programming instructor at Quera and independent creator of the @IUSTech YouTube channel, dedicated to computer science and AI education.
 
