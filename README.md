@@ -1,5 +1,3 @@
-# Amir Jebbeli
-
 ## About Me
 Deep Learning & NLP Researcher - Computer Engineering graduate from Iran University of Science and Technology - Quera Instructor - Creator of scientific and educational AI and software content on YouTube: @IUSTech
 
